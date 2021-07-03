@@ -1,5 +1,4 @@
-# Mello
-Mello Markets (Coming soon!)
+# Mello Markets (Coming soon!)
 
 [Dima](https://twitter.com/davidcaofucius) & [David](https://twitter.com/DimaRomanovR)
 
